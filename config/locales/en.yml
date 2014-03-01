@@ -1,0 +1,5 @@
+en:
+  input_gitlab_root: GitLab root
+  placeholder_gitlab_root: http://example.com/gitlab/
+  input_repository_name: Repository name
+  placeholder_repository_name: user/repository
